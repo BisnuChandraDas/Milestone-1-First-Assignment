@@ -105,11 +105,37 @@ body {
     color: dodgerblue;
 }
 
+section {
+    display: flex;
+}
+
+.writechil {
+    color: rgb(0, 0, 255);
+}
+
+.helf-wi {
+
+    width: 50%;
+    padding: 10px;
+    color: rgb(118, 7, 215);
+
+}
+
+.helf-wi img {
+    width: 40%;
+
+}
+
+.helf-2i {
+    width: 70%;
+
+}
+
 
 .lastfooter {
     border: 10px;
     text-align: center;
     background-color: black;
     color: cyan;
-    padding-bottom: 2%;
+    padding-bottom: 0%;
 }
