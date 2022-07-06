@@ -74,6 +74,10 @@ body {
     margin: 10px;
 }
 
+.newdonete {
+    background: linear-gradient(rgb(135, 255, 181), rgb(255, 91, 170));
+}
+
 .otherdonate-amount {
 
     text-align: center;
@@ -99,4 +103,13 @@ body {
 
 .dona-pera {
     color: dodgerblue;
+}
+
+
+.lastfooter {
+    border: 10px;
+    text-align: center;
+    background-color: black;
+    color: cyan;
+    padding-bottom: 2%;
 }
